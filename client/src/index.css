@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    @apply h-[100vh] w-[100vw] bg-gradient-to-r from-gray-900 via-gray-700 to-gray-500 p-0 m-0 font-['Nunito_Sans'];
+}
